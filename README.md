@@ -1,8 +1,9 @@
 # PS-Superresolution
-Merge multiple images together in Photoshop in order to enhance them
+Merge multiple images together in Photoshop in order to enhance them.
 
 #Instructions
-Put the SuperResolution.js file into the scripts folder for example in Windows: "C:\Program Files\Adobe\Adobe Photoshop CC 20##\Presets\Scripts"
+
+Put the SuperResolution.js file into the scripts folder for example in Windows: "C:\Program Files\Adobe\Adobe Photoshop CC 20##\Presets\Scripts".
 
 Open Photoshop and the script should be available from the "File / Scripts" menu.
 
