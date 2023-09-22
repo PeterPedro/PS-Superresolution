@@ -11,4 +11,4 @@ Select multiple image files, the files must be the "same" or multiple pictures o
 
 You can also use diferent images if you want of course, for example to make ghostly effects or just add random images, the images must have the same width and height.
 
-The script has an option at the end to automatically merge the files after processing them, just uncomment the code under the description.
+The script has an option at the end to automatically flatten the files after processing them, just uncomment the code under the description.
